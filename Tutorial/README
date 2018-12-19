@@ -1,0 +1,15 @@
+This set of C++ files are basic programs, written while following "C++ Tutorial for Beginners - Full Course", a video that explains the basics of C++ by Mike Dane at freeCodeCamp.org on YouTube.
+
+I have not used C++ in quite some time so I used this tutorial series as a refresher. Over the next few weeks (late December 2018-early January 2019( to continue to brush up on my C++ and have some more substantial projects. Each "cpp" file corresponds to a different tutorial from the series.
+
+main.cpp			-	first exposure to C++, basic console input and output
+MadLib.cpp			-	extra practice with IO and variables
+arrays.cpp			-	introduction to arrays and indexing
+functions.cpp		-	explains how to define and write functions in C++ with header files
+calc.cpp			-	a text based 4-function calculator, using if-statements and switch statements
+pointers.cpp		-	a very basic look into using pointers and memory addresses in C++
+class.cpp			-	an introduction to writing new classes in C++
+objectFunctions.cpp	-	a look into writing functions for a new class in C++
+inheritance.cpp		-	a look into inheritance in C++
+
+With the Makefile, all files will be compiled into corresponding executables. The executables are named the same as the C++ files, without the extensions.
